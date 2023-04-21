@@ -1,1 +1,4 @@
 route
+
+
+se crea ruta principal y se difine el index
